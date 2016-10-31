@@ -1,0 +1,7 @@
+Using Git in the terminal
+We are learning about git. In order to track your coding we use "git add --all" followed by "git commit -m "some description of why you made changes." In this way we can keep track of all of our moves. This will keep it so we can go back to previous versions of our code.
+
+By - 
+
+Nishant T
+
